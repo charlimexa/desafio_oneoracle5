@@ -1,3 +1,4 @@
+package rutinas;
 // proyecto de inicio
 
 import java.util.*;

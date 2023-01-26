@@ -1,6 +1,6 @@
 package rutinas;
 
-public class filtros {
+public class Filtros {
     public static void main(String[] args) {
         System.out.println("1 Ruppe");
         System.out.println("2 Dollar");
