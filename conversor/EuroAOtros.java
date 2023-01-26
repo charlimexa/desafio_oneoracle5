@@ -1,6 +1,6 @@
 package conversor;
 
-public class EuroADolar {
+public class EuroAOtros {
     System.out.println("1 Dollar = " + 79.37 + " Ruppe");
     System.out.println();
     System.out.println(amt+" Dollar = " + (amt*79.37) + " Ruppe");
